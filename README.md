@@ -1,1 +1,2 @@
 # Capstone-Project
+I am Rishabh Jain, and I'd like to share my thoughts on the project. There were numerous datasets, and after  reading the documentation and questions, I began my work. I faced several challenges, but I learned many new functions, such as iloc[]. I also learned how to add new columns to existing dataframes and perform operations on each row. My understanding of creating charts has been improved. Overall, this project has greatly enhanced my skills and confidence as a Data Analyst.
